@@ -1,3 +1,3 @@
 [submodule "Stm32CubeIDE_workspace/External_libraries"]
-	path = Stm32CubeIDE_workspace/External_libraries
+	path = Stm32CubeIDE_workspace/Stm32CubeIDE_workspaceAirQ
 	url = https://github.com/boschsensortec/BME68x_SensorAPI
